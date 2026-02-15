@@ -140,8 +140,8 @@ Edit `:root` variables in `css/style.css`:
 
 ## 📞 Contact
 
-- Email: [your-email@example.com]
-- Phone: [your-phone]
+- Email: [orenovavi@gmail.com]
+- Phone: [Private]
 - Website: [vero.my.id](https://vero.my.id)
 
 ## 📄 License
